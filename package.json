@@ -1,0 +1,30 @@
+{
+  "name": "Uptimer-bot",
+  "version": "1.0.0",
+  "description": "```sh npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_modules/node && export PATH=$(pwd)/node_modules/node/bin:$PATH ```",
+  "main": "index.js",
+  "dependencies": {
+    "clever-chat": "^8.0.1",
+    "discord.js": "^13.8.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "glob": "^7.1.7",
+    "leaf-utils": "^1.1.3",
+    "mongoose": "^5.13.7",
+    "node-fetch": "^2.6.1",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "node": "^16.13.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/REAL-GAMING-OP/Advanced-discord.js-v13-handler/issues"
+  },
+  "homepage": "https://github.com/REAL-GAMING-OP/Advanced-discord.js-v13-handler#readme"
+}
